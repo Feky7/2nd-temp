@@ -110,7 +110,7 @@ p {
     display: flex;
 }
 .landing .contanier .links ul li {
-    padding: 10px 5px;
+    padding: 5px 5px;
 }
 .landing .contanier .links ul li a{
     text-decoration: none;
@@ -182,7 +182,7 @@ p {
 @media (max-width :767px) {
     .landing .maincard {
         width: 100%;
-        height: 250px;
+        height: 300px;
         Padding:10px;
         
     }
