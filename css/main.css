@@ -110,7 +110,7 @@ p {
     display: flex;
 }
 .landing .contanier .links ul li {
-    padding: 10px 5px 0px;
+    padding: 10px 5px;
 }
 .landing .contanier .links ul li a{
     text-decoration: none;
@@ -184,6 +184,7 @@ p {
         width: 100%;
         height: 300px;
         Padding:10px;
+        margin-top:20px;
     }
 }
 .landing
