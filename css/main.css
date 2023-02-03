@@ -865,7 +865,11 @@ p {
     background-size: cover;
     text-align: center;
     position: relative;
-    height: 400px;
+    height: 300px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-betwen;
 }
 .sec3 .design::before{
     content: "";
