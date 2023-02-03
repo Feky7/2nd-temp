@@ -193,7 +193,7 @@ p {
     position: absolute;
     font-size: 30px;
     color: var(--whitecoloring);
-    top: 5%;
+    top: 50%;
     right: 10px;
 }
 .fa-angle-left {
@@ -866,10 +866,7 @@ p {
     text-align: center;
     position: relative;
     height: 300px;
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:space-betwen;
+    
 }
 .sec3 .design::before{
     content: "";
