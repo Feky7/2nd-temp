@@ -134,11 +134,11 @@ p {
     .landing .contanier .links .mainul li:hover .child {
         position: absolute;
         background-color: rgba(0, 0, 0, 0.61);
-        right: 0; 
+        Left: 0; 
         top: 80px;
         display: flex;
         flex-direction: column;
-        width: 200px;
+        width: 767px;
         align-items: flex-start;
     }
     .landing .contanier .links .mainul li:hover .child li {
