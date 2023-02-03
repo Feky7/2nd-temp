@@ -1028,7 +1028,7 @@ p {
     padding-left: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 300px;
+    width: 400px;
     height: 60px;
     margin-top: 30px;
 }
@@ -1100,6 +1100,9 @@ p {
 }
 
 @media (max-width : 767px) {
+    .sec4 .design .contanier input {
+         width:300px;
+    }
     .sec5 .contanier>div {
         width: 100%;
     }
